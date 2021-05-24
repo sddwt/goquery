@@ -1,4 +1,4 @@
-module github.com/PuerkitoBio/goquery
+module github.com/sddwt/goquery
 
 require (
 	github.com/andybalholm/cascadia v1.1.0
